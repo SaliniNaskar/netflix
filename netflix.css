@@ -1,0 +1,13 @@
+body
+{
+background: red;
+font-family: 'Kanit', sans-serif;
+text-align: center;
+letter-spacing: 4px;
+color: white;
+
+}
+h1{
+    font-size: 80px;
+    text-shadow: 0px 0px 10px black;
+}
